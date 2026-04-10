@@ -33,8 +33,10 @@ Este repositório foi criado para **registrar e compartilhar o aprendizado adqui
 
 ## Status do projeto
 
-🚧 **Projeto em andamento**  
-Atualmente continuo realizando cursos da trilha de React da Alura, adicionando novas funcionalidades e melhorias conforme avanço nos estudos.
+🎉✅ **Projeto concluído**  
+
+O projeto Organo foi finalizado como parte da trilha *Explore React com JavaScript* da Alura.  
+Novos aprendizados da trilha continuam sendo aplicados em outros repositórios.
 
 ---
 
